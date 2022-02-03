@@ -1,3 +1,3 @@
 # Assignment-No-3
 
-Hypoyhesis Testing
+Hypoyhesis Testings like Two tail test , Annova and ChiSquare are performed.
